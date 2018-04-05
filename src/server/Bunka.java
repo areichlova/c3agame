@@ -1,6 +1,5 @@
 package server;
 
-
 public class Bunka {
 
 	public int x,y;
